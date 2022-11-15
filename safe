@@ -3,15 +3,15 @@
 <html lang="nl">
 	
 	<head>
-		<link href="mystyles.css" rel="stylesheet">
 		<meta charset="UTF-8">
 		<title>webpagina damian</title>
+		<link rel="stylesheet" href="styles.css">
 	</head>
 
 	
 	<body>
 		<ul>
-		<h1> informatie pagina van Damian Slavenburg</h1>
+		<li><h1>Damian Slavenburg</h1></li>
 		<h3>ik hou van gamen</h3>
 		<li><h2>Software Developer</h2></li>
 		<li><h3>ik heb voor software developer opleiding gekozen omdat ik programmeren heel leuk vindt en ik er graag een baan later in wil krijgen</h3></li>
