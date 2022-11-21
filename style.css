@@ -4,7 +4,7 @@ html, body {
     height: 100%;
 }
 body {
-    background: #fff;
+    background: rgb(65, 7, 223);
     padding: 0;
     margin: 0;
     font-family: 'Varela Round', sans-serif;
@@ -39,6 +39,7 @@ body {
     font-size: 3em;
     font-weight: bold;
     letter-spacing: 1.25px;
+    
 }
 #sidebarMenu {
     height: 100%;
@@ -143,3 +144,10 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
     transform: rotate(-135deg);
     margin-top: -9px;
 }
+.test { 
+        width: 300px;
+      }
+    .maintest   {
+        width: 300px;
+        padding: 25px;
+      }
